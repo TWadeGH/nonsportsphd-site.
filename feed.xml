@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>nonsportsphd</title>
+  <link>https://nonsportsphd.com/</link>
+  <atom:link href="https://nonsportsphd.com/feed.xml" rel="self" type="application/rss+xml" />
+  <description>Obsessively researched deep dives into nonsports trading cards and collectibles.</description>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 15 Oct 2026 22:30:00 -0500</lastBuildDate>
+  <item>
+    <title>Ranking the Ten Harry Potter “Magic Will Happen” Vending Cards</title>
+    <link>https://nonsportsphd.com/articles/ranking-magic-will-happen-harry-cards.html</link>
+    <guid>https://nonsportsphd.com/articles/ranking-magic-will-happen-harry-cards.html</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 -0500</pubDate>
+    <description>A ranking of the ten Harry Potter character cards from the “Magic Will Happen” vending machine set, judged on artwork, appeal and place in Harry Potter trading card history.</description>
+  </item>
+  <item>
+    <title>The Hunt for the First Harry Potter Card: A Field Guide to 2000-2001</title>
+    <link>https://nonsportsphd.com/articles/first-harry-potter-cards-2000-2001.html</link>
+    <guid>https://nonsportsphd.com/articles/first-harry-potter-cards-2000-2001.html</guid>
+    <pubDate>Sat, 19 Sep 2026 12:00:00 -0500</pubDate>
+    <description>A full survey of every Harry Potter card and card-adjacent release from 2000 and 2001, with sourcing, aesthetics ratings, and a personal ranking.</description>
+  </item>
+</channel>
+</rss>
